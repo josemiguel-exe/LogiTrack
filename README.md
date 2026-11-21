@@ -18,11 +18,11 @@ Projeto acadêmico desenvolvido para a disciplina **Fundamentos de Programação
 
 ## Como executar
 1. Instale o XAMPP.
-2. Copie a pasta `logitrack` para `C:\\xampp\\htdocs\\`.
+2. Copie a pasta `LogiTrack` para `C:\\xampp\\htdocs\\`.
 3. Abra o XAMPP Control Panel e inicie **Apache** e **MySQL**.
 4. Acesse `http://localhost/phpmyadmin`.
 5. Importe o arquivo `database.sql`.
-6. Acesse `http://localhost/logitrack`.
+6. Acesse `http://localhost/LogiTrack`.
 
 ## Banco de dados
 O banco chama-se `logitrack`. A configuração local fica em `config/database.php` (usuário padrão `root`, senha vazia).
